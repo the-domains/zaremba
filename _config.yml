@@ -1,0 +1,28 @@
+name: Zaremba
+favicon: null
+layout_spectrum: 0.05224132817238569
+typography_spectrum: 0.9065904784947634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7544222378637642
+  lightness: 0.2579310815781355
+  saturation: 0.49275136133655906
+  rhythmicContrast: 0.11576687404885888
+purpose: []
