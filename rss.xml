@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Zaremba]]></title>
         <description><![CDATA[Zaremba]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zaremba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 21:07:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 21:27:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zaremba/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://zrmba.com/wp-content/uploads/2014/10/rp-296x150.jpg">]]></description>
+            <link>http://zrmba.com/portfolio</link>
+            <guid isPermaLink="false">1d308b70-cc8b-46e7-9817-7fcf87528100</guid>
+            <pubDate>Wed, 06 Apr 2016 21:27:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7717734-b351-47f1-b365-362c60ff2b3c.jpg">]]></description>
-            <link>undefined83774320-9957-430f-8490-515aba7c0830/index.html</link>
+            <link>https://thegrid.ai/zaremba/83774320-9957-430f-8490-515aba7c0830/index.html</link>
             <guid isPermaLink="false">83774320-9957-430f-8490-515aba7c0830</guid>
             <pubDate>Wed, 06 Apr 2016 21:06:57 GMT</pubDate>
         </item>
